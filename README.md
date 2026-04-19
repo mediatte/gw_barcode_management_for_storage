@@ -76,6 +76,3 @@ clasp deployments
 - `.clasp.json`은 로컬 연결 정보이므로 커밋하지 않음
 - `.clasp.json.example`만 저장소에 포함
 - 배포용 ID, 개인 계정 정보, 테스트 로그는 커밋하지 않음
-
-# gw_barcode_management_for_storage
-# gw_barcode_management_for_storage

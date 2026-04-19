@@ -1,0 +1,9 @@
+.DS_Store
+.clasp.json
+node_modules/
+.idea/
+.vscode/
+*.log
+.env
+.env.*
+
