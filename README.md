@@ -1,4 +1,4 @@
-# clasp_barcode
+# gw_barcode_management_for_storage
 
 Google Apps Script 기반 물품 대여/반납 웹앱입니다.  
 사용자 정보는 `users` 시트에서 불러오고, 물품 정보는 `items`, 대여 이력은 `rentals` 시트에 기록합니다.
