@@ -78,3 +78,4 @@ clasp deployments
 - 배포용 ID, 개인 계정 정보, 테스트 로그는 커밋하지 않음
 
 # gw_barcode_management_for_storage
+# gw_barcode_management_for_storage
